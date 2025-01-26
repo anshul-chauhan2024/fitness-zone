@@ -1219,7 +1219,11 @@ overflow: hidden;
     margin-bottom: 15px;
     width: 100%;
 }
-
+#aboutUs .left {
+	margin-top:15px;
+    padding-right: 0;
+    float: left;
+}
 
 .navbar-inverse .navbar-nav > li > a {
 padding: 7px 15px !important;
