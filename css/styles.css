@@ -1214,6 +1214,13 @@ float: left;
 width: 100%;
 overflow: hidden;
 }
+.form-group {
+    margin: 0 auto;
+    margin-bottom: 15px;
+    width: 100%;
+}
+
+
 .navbar-inverse .navbar-nav > li > a {
 padding: 7px 15px !important;
 margin: 0px;
